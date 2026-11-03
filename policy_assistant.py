@@ -4,7 +4,7 @@ import time
 
 load_dotenv()
 
-client = Anthropic()
+client = Anthropic(max_retries=0)
 
 def ask_claude(question: str) -> dict:
 
