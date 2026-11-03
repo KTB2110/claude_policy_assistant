@@ -1,4 +1,4 @@
-# AGENTS.md | Anthropic Applied AI Preparation Repository
+ # AGENTS.md | Anthropic Applied AI Preparation Repository
 
 ## 1. Mission and operating contract
 
